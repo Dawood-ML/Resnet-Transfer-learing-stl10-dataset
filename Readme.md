@@ -1,5 +1,3 @@
-Of course. Here is a README template designed to be eye-catching, human, and humble. Just copy and paste this into a `README.md` file in your GitHub repository.
-
 ---
 
 # STL-10 Image Classification with PyTorch
@@ -16,9 +14,10 @@ It was a great way to get my hands dirty with the entire process, from getting t
 
 Here are some of the fun visuals that came out of this experiment.
 
-| Accuracy & Loss Curves | Confusion Matrix | Sample Predictions |
-| :---: | :---: | :---: |
-|  |  |  |
+| Accuracy & Loss Curves |
+| :---: |
+| <img width="576" height="455" alt="accuracy-over-epochs" src="https://github.com/user-attachments/assets/0767cfe2-e4aa-4737-afb8-d6c43e30c46e" />
+|  <img width="567" height="455" alt="loss-over-epochs" src="https://github.com/user-attachments/assets/663f2b1f-4fed-41c6-bec6-a77360dff464" />
 
 <br>
 
