@@ -63,8 +63,8 @@ If you want to give it a spin, it's easy.
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/your-repo-name.git
-    cd your-repo-name
+    git clone [https://github.com/your-username/your-repo-name.git](https://github.com/Dawood-ML/Resnet-Transfer-learing-stl10-dataset.git)
+    cd Resnet-Transfer-learing-stl10-dataset
     ```
 
 2.  **Set up an environment:** It's probably best to use a virtual environment.
